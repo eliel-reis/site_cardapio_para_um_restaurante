@@ -1,2 +1,2 @@
-# site_cardapio_para_um_restaurante
+# site_de_hospedagem
  É um cardapio de um restaurante.
