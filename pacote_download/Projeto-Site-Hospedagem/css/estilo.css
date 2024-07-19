@@ -1,0 +1,320 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.secao_1 {
+    max-width: 1024px;
+    margin: 0 auto;
+    height: 120px;
+    position: relative;
+}
+
+.secao_1_logo h1 {
+    font-size: 32px;
+    color: #000000;
+    position: absolute;
+    left: 80px;
+    top: 0;
+}
+
+.secao_1_logo img {
+    width: 70px;
+}
+
+.secao_1_logo p {
+    font-size: 14px;
+    color: #2f86d6;
+    font-weight: 600;
+    position: absolute;
+    left: 80px;
+    bottom: 10px;
+
+}
+
+.secao_1_links a {
+    font-size: 18px;
+    color: #233032;
+    margin: 0 0 0 30px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.secao_1_logo {
+    display: inline-block;
+    position: relative;
+    width: 280px;
+    margin-top: 23px;
+}
+
+.secao_1_links {
+    width: 450px;
+    position: absolute;
+    right: 0;
+    top: 50px;
+}
+
+.secao_2 {
+    background-color: #2f86d6;
+    height: 500px;
+    position: relative;
+}
+
+.secao_2 p {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.secao_2 h2 {
+    font-size: 28px;
+}
+
+.secao_2_esquerdo {
+    width: 470px;
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    color: white;
+}
+
+.secao_2_direito {
+    position: absolute;
+    right: 18%;
+    top: 18%;
+}
+
+.secao_2_direito img {
+    width: 400px;
+}
+
+.secao_2_esquerdo p,
+.secao_2_esquerdo h2 {
+    margin-top: 30px;
+}
+
+
+.secao_3,
+.secao_6 {
+    background-color: #040404;
+    height: 125px;
+    position: relative;
+}
+
+
+.secao_3_direito a,
+.secao_6_direito a {
+    background-color: #2f86d6;
+    color: #fff;
+    padding: 14px 14px 14px 38px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.secao_3_direito,
+.secao_6_direito {
+    margin: 0 0 0 66%;
+    position: absolute;
+    top: 35%;
+
+}
+
+.secao_3_direito img,
+.secao_6_direito img {
+    position: absolute;
+    left: 15px;
+    top: 5px;
+}
+
+.secao_3_direito h3,
+.secao_6_direito h3 {
+    font-size: 24px;
+}
+
+.secao_3_direito p,
+.secao_6_direito p {
+    font-size: 16px;
+}
+
+.secao_3_esquerdo,
+.secao_6_esquerdo {
+    color: #fff;
+    position: absolute;
+    top: 26%;
+    left: 15%;
+}
+
+.secao_3_esquerdo p,
+.secao_6_esquerdo p {
+    font-weight: 500;
+}
+
+.secao_4 {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+.secao_4_h3 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 80px;
+}
+
+
+
+.secao_4_h3 span,
+.secao_5 span {
+    color: #2f86d6;
+}
+
+.secao_4_molds p {
+    font-size: 16px;
+    color: #000000;
+    margin: 15px 0;
+}
+
+
+
+
+.secao_4_molds div {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    padding: 5px;
+}
+
+.secao_4_molds div img {
+    width: 80px;
+}
+
+.secao_4_molds h3,
+.secao_5 h3 {
+    font-size: 18px;
+    color: #000000;
+    margin-top: 15px;
+}
+
+.secao_5 h3 {
+    margin: 0 0 3% 20%;
+    font-size: 26px;
+}
+
+.secao_5 {
+    background-color: rgb(131, 125, 125, 0.097);
+    padding: 100px 0px;
+}
+
+
+.secao_5 table {
+    max-width: 1024px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 32px 15px #2f86d6;
+}
+
+.secao_5 table thead th {
+    font-size: 18px;
+    color: #000000;
+}
+
+.secao_5 table th,
+.secao_5 table td {
+    padding: 10px 20px;
+    border-right: 1px solid rgb(131, 125, 125, 0.097);
+    position: relative;
+}
+
+.secao_5_table_paragrafos_cor small {
+    font-size: 15px;
+    color: #a89f9f;
+    margin-bottom: 1000%;
+    position: absolute;
+    top: -38px;
+    left: 10px;
+}
+
+.secao_5 img {
+    width: 80px;
+    margin: 30px;
+}
+
+.linha-impar {
+    background-color: rgba(104, 98, 98, 0.097);
+    font-size: 16px;
+}
+
+.linha-par {
+    background-color: #f1f3f7;
+    font-size: 16px;
+}
+
+
+.secao_6_esquerdo h3 {
+    margin: 1% 3% 0 0;
+    width: 450px
+}
+
+.secao_6 {
+    background-color: #2f86d6;
+}
+
+.secao_6_direito a {
+    background-color: #040404;
+}
+
+.secao_7 {
+    padding: 100px 0;
+}
+
+
+.secao_7_logo {
+    display: inline-block;
+    position: relative;
+    width: 280px;
+    margin: 0 0 5% 40%;
+}
+
+.secao_7_logo h3 {
+    font-size: 25px;
+    color: #000000;
+    position: absolute;
+    left: 28%;
+    top: 5%;
+}
+
+.secao_7_logo p {
+    font-size: 14px;
+    color: #2f86d6;
+    font-weight: 600;
+    position: absolute;
+    left: 28%;
+    top: 50%;
+}
+
+.secao_7_logo img {
+    width: 70px;
+}
+
+.secao_7_contato {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.secao_7_contato p {
+    margin: 18px 0;
+    font-weight: 600;
+}
+
+
+.secao_8 {
+    background-color: rgba(104, 98, 98, 0.097);
+    padding: 20px 0;
+    text-align: center;
+    font-weight: 600;
+}
+
+.secao_8 span {
+    color: #2f86d6;
+}
